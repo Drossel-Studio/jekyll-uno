@@ -1,7 +1,7 @@
 # Site settings
 # Site settings
 title: Drossel/Studio
-description: '星好きナントカサークル'
+description: '星好きナントカサークル<br>スマートフォン向け音楽ゲーム「コトノネドライブ」の開発中'
 url: 'https://drossel.studio'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
