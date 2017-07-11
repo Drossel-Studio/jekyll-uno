@@ -3,7 +3,7 @@
 title: Drossel/Studio
 description: '星好きナントカサークル<br>スマートフォン向け音楽ゲーム「コトノネドライブ」の開発中'
 url: 'https://drossel.studio'
-baseurl: '/jekyll-uno/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -12,7 +12,7 @@ author:
   email: info.drossel.studio@gmail.com
   twitter_username: drossel_studio
   facebook_username: 
-  github_username:  
+  github_username: drossel-studio
   linkedin_username:  
 
 defaults:
